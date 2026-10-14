@@ -1,0 +1,22 @@
+{
+  "name": "eBay Profit Calculator",
+  "short_name": "eBay Calc",
+  "description": "Calculate eBay fees, profit, and optimal pricing for resellers",
+  "start_url": "/ebay-calculator1/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/6366f1/ffffff?text=$",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/6366f1/ffffff?text=$",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
