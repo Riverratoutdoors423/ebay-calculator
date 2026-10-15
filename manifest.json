@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "eBay Profit Calculator",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "eBay Calc",
+  "start_url": "//ebay-calculator/",
+  "theme_color": "#6366f1",
+  "description": "Calculate eBay fees and profit",
+  "id": "Ebay Calculator and Optimizer",
+  "lang": "en"
+}
